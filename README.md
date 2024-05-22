@@ -7,4 +7,5 @@ Below are the manual computations for Laboratory 1.
 ![421492080_1147132970069694_5798924266710393830_n](https://github.com/Iaaaaaaaaan/CSE_Laplace-InverseLaplace_BSME_4203_Group2_2024/assets/161392194/2cb3f6e9-89dc-4dea-a481-8e231a8c1547)
 
 ![418241824_940905907421334_8138253596007486142_n](https://github.com/Iaaaaaaaaan/CSE_Laplace-InverseLaplace_BSME_4203_Group2_2024/assets/161392194/0734c296-8887-4d9c-89b7-3e02b92decaa)
+
 ![420526197_911787697088169_3827330751263560287_n](https://github.com/Iaaaaaaaaan/CSE_Laplace-InverseLaplace_BSME_4203_Group2_2024/assets/161392194/8b32788a-8bd7-4963-b0c7-60bfe56aa3d4)
